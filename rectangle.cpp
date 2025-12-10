@@ -8,7 +8,7 @@ class Rectangle{
 public:
     Rectangle(double w, double h)
         : width(w), height(h){}
-    void setWight(double w){
+    void setWidth(double w){
         width = w;
     }
     void setHeight(double h){
